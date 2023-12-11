@@ -1,0 +1,70 @@
+ReactJS
+
+Introduction to ReactJS
+ Introduction to Basic building blocks of Web Application Development. HTML-CSS-JS
+ SPAs and React Web Apps.
+ ReactJS Overview.
+ Single Page Apps VS Multi-Page Applications.
+ What is a DOM, Virtual DOM?
+ Installing ReactJS and writing our first Hello World code.
+ The Folder Structure of React Application.
+ Basic Building Blocks of React JS – (components, state, props, jsx)
+ What are the components? Understanding the component basics and different types of
+components.
+ What are the functional components and container components?
+ Creating your first class-based component and functional component.
+ Understanding JSX and JSX restrictions.
+ Component Nesting.
+ What are props and a simple understanding of props?
+ Passing Propsinto components.
+ Accessing propsinside the components.
+ Creating reusable dynamic components
+ Creating form validations through JWT Tokens
+
+React Architecture
+
+ Components configuration with state, props and children.
+ Understanding and using state and props, and Differences between props and state
+ Handling Events
+ Manipulating the state with setState() method
+ Difference between stateless and stateful components.
+ Adding two-way binding.
+ Rendering content conditionally.
+ Making API REQUESTS with React.
+ Fetching data – Axios vs Fetch.
+ Building Lists from data
+ The purpose of keys in lists and Implementing keys in lists.
+ Handling User Input with forms and events.
+ Controlled Elements versus uncontrolled elements.
+ Handling formssubmitted.
+ Understanding this in JavaScript and solving context issues.
+ Communicating child to parent.
+ Handling user Input of dynamic forms
+ Handling form submission (MAKING API CALL)
+ Adding Custom Form Validation.
+ Showing validation errors and other error messages.
+ Handling overall form validity.
+
+UI and Component Styling in React
+
+ Styling React components. The different ways of styling the react components.
+ Inline styles and externalstyles to the components.
+ Using styled-components.
+ Creating a navigation-barin ReactJS.
+ Introduction to React Router.
+ Creating Routesto our Navigation Bar.
+
+Hooks
+
+ Introducing Lifecycle methods.
+ Why use Lifecycle methods
+ React Hooks – An Introduction, Why React Hooks
+ Moving from classesto functional components
+ Introducing the first Hook: useState Hook and Second Hook: useEffect Hook
+ Data Fetching with hooks/replacing the class lifecycle methods
+ Fetching data on component mount with useEffect
+ Using the useRef Hook
+ Displaying loading state with useState
+ Error Handling and displaying errors with useState
+ The useReducer Hook
+ Using the useContext Hook
